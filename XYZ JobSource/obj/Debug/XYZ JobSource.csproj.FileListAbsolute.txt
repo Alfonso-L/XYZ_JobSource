@@ -1,0 +1,9 @@
+c:\users\al\documents\visual studio 2015\Projects\XYZ JobSource\XYZ JobSource\bin\Debug\XYZ JobSource.exe.config
+c:\users\al\documents\visual studio 2015\Projects\XYZ JobSource\XYZ JobSource\bin\Debug\XYZ JobSource.exe
+c:\users\al\documents\visual studio 2015\Projects\XYZ JobSource\XYZ JobSource\bin\Debug\XYZ JobSource.pdb
+c:\users\al\documents\visual studio 2015\Projects\XYZ JobSource\XYZ JobSource\obj\Debug\XYZ JobSource.csprojResolveAssemblyReference.cache
+c:\users\al\documents\visual studio 2015\Projects\XYZ JobSource\XYZ JobSource\obj\Debug\XYZ_JobSource.Form1.resources
+c:\users\al\documents\visual studio 2015\Projects\XYZ JobSource\XYZ JobSource\obj\Debug\XYZ_JobSource.Properties.Resources.resources
+c:\users\al\documents\visual studio 2015\Projects\XYZ JobSource\XYZ JobSource\obj\Debug\XYZ JobSource.csproj.GenerateResource.Cache
+c:\users\al\documents\visual studio 2015\Projects\XYZ JobSource\XYZ JobSource\obj\Debug\XYZ JobSource.exe
+c:\users\al\documents\visual studio 2015\Projects\XYZ JobSource\XYZ JobSource\obj\Debug\XYZ JobSource.pdb
